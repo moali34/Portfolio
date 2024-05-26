@@ -21,16 +21,7 @@ function Footer() {
         </Col>
         <Col md="4" className="footer-body">
           <ul className="footer-icons">
-            <li className="social-icons">
-              <a
-                href="https://github.com/moali34"
-                style={{ color: "white" }}
-                target="_blank" 
-                rel="noopener noreferrer"
-              >
-                <AiFillGithub />
-              </a>
-            </li>
+            
             <li className="social-icons">
               <a
                 href="https://www.linkedin.com/in/mohamed-ali-9b519129a/"
