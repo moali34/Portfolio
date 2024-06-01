@@ -41,6 +41,8 @@ This project was built using these technologies.
 - CSS3
 - VsCode
 - Vercel
+You can fork this repo to modify and make changes of your own. <br/>
+To create this Portfolio repo, I forked the repo from [Soumyajit4419](https://github.com/soumyajit4419/Portfolio).
 
 ## Features
 
@@ -73,4 +75,3 @@ You will find all the components used and you can edit your information accordin
 
 Give a ⭐ if you like this website!
 
-<a href="https://www.buymeacoffee.com/soumyajit4419" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-violet.png" alt="Buy Me A Coffee" height= "60px" width= "217px" ></a>
