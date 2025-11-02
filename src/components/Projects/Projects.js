@@ -10,7 +10,7 @@ import suicide from "../../Assets/Projects/suicide.png";
 import bitsOfCode from "../../Assets/Projects/blog.png";
 import train from "../../Assets/Projects/train.png";
 import API from "../../Assets/Projects/API.png";
-
+import learn from "../../Assets/Projects/learn.png";
 function Projects() {
   return (
     <Container fluid className="project-section">
@@ -43,6 +43,15 @@ function Projects() {
             />
           </Col>
 
+<Col md={4} className="project-card">
+            <ProjectCard
+              imgPath={learn}
+              isBlog={false}
+              title="learn"
+              description="An online store website. It contains two sections that are responsive."
+              demoLink="https://sites.google.com/view/mohamedalitech/%D8%AE%D8%AF%D9%85%D8%A7%D8%AA-%D8%A7%D9%84%D8%AD%D8%A7%D8%B3%D9%88%D8%A8-%D9%88%D8%A7%D9%84%D8%AA%D9%82%D9%86%D9%8A%D8%A9"
+            />
+          </Col>
 
 
        
