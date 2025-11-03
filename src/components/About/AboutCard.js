@@ -9,18 +9,18 @@ function AboutCard() {
         <blockquote className="blockquote mb-0">
           <p style={{ textAlign: "justify" }}>
             Hi Everyone, I am <span className="purple">Mohamed Babiker </span>
-            from <span className="purple"> Riyadh, Saudi Arabia.</span>
+            from <span className="purple"> Khartoum, Sudan.</span>
             <br />
-            I am currently acttivly looking for jobs.
+            I live in Riyadh, Saudi Arabia, and I am currently acttivly looking for jobs.
             <br />
-           I'm currently in my final year in Nile University's Facutly of Compueter Studies and Information Technology, studying Software Engineering. Graduation expected in 1 year.
+           I graduated Nile University's Facutly of Compueter Studies and Information Technology, Bachelor's in Software Engineering.
             <br />
             <br />
             Apart from coding, some other activities that I love to do!
           </p>
           <ul>
             <li className="about-activity">
-              <ImPointRight /> Playing Games
+              <ImPointRight /> Reading
             </li>
             <li className="about-activity">
               <ImPointRight /> Community work
