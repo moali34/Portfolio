@@ -11,9 +11,9 @@ function AboutCard() {
             Hi Everyone, I am <span className="purple">Mohamed Babiker </span>
             from <span className="purple"> Khartoum, Sudan.</span>
             <br />
-            I live in Riyadh, Saudi Arabia, and I am currently acttivly looking for jobs.
+            I live in Riyadh, Saudi Arabia, and I am currently actively looking for jobs.
             <br />
-           I graduated Nile University's Facutly of Compueter Studies and Information Technology, Bachelor's in Software Engineering.
+           I graduated Nile University's Faculty of Computer Studies and Information Technology, Bachelor's in Software Engineering.
             <br />
             <br />
             Apart from coding, some other activities that I love to do!
