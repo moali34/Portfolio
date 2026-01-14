@@ -65,10 +65,21 @@ function Home2() {
               Feel free to <span className="purple">connect </span>with me
             </p>
             <ul className="home-about-social-links">
+
+               <li className="social-icons">
+                <a
+                  href="https://github.com/moali34"
+                  target="_blank"
+                  rel="noreferrer"
+                  className="icon-colour  home-social-icons"
+                >
+                  <AiFillGithub />
+                </a>
+              </li>
           
               <li className="social-icons">
                 <a
-                  href="https://www.linkedin.com/in/mohamed-ali-9b519129a/"
+                  href="https://www.linkedin.com/in/mohamed-babiker-23bb40359"
                   target="_blank"
                   rel="noreferrer"
                   className="icon-colour  home-social-icons"
